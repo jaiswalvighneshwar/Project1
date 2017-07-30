@@ -1,1 +1,1 @@
-print "Hello good bmorknikng"
+print "This is a python project"
